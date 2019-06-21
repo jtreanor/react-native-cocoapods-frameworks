@@ -66,4 +66,4 @@ The following build commands failed:
 
 ## Causes and fixes
 
-I have been able to fix the error shown in the log above with some `.podspec` changes, but there are few more errors I haven't been able to solve. You can see my WIP `react-native` branch [here](https://github.com/facebook/react-native/compare/master...jtreanor:fix/cocoapods-frameworks?expand=1).
+I have been able to fix the error shown in the log above with some `.podspec` changes, but there are few more errors I haven't been able to solve. You can see my WIP `react-native` branch [here](https://github.com/facebook/react-native/compare/0.60-stable...jtreanor:fix/cocoapods-frameworks).
