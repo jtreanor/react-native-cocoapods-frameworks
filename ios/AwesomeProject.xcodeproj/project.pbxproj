@@ -12,14 +12,14 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2370906DB644DC57AA289AAD /* Pods_AwesomeProject_tvOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6C2525489CB8F127F37D9FE6 /* Pods_AwesomeProject_tvOS.framework */; };
+		24A51091E0798DE2C28359C1 /* Pods_AwesomeProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E1CF33F66F6BBBE95249D86 /* Pods_AwesomeProject.framework */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* AwesomeProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AwesomeProjectTests.m */; };
-		46FE87735B5684A20E7305F4 /* Pods_AwesomeProject_tvOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B30BA2FE5A638491C5AE884 /* Pods_AwesomeProject_tvOSTests.framework */; };
-		61CDD0F9976EC26AC11D11EA /* Pods_AwesomeProjectTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD122EB2F748FD5C864061E5 /* Pods_AwesomeProjectTests.framework */; };
-		91F8743436960148B95D99B2 /* Pods_AwesomeProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87654E3264B89F7DFE0920AC /* Pods_AwesomeProject.framework */; };
-		A82E2F4B7620713A59A0D183 /* Pods_AwesomeProject_tvOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D15A437A69B8300DB69CDDDC /* Pods_AwesomeProject_tvOS.framework */; };
+		80F28872C03B3F55D501D6C2 /* Pods_AwesomeProject_tvOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 928C990704BB09AEE6A158B3 /* Pods_AwesomeProject_tvOSTests.framework */; };
+		8E8377C8A00EDF2B36D1830C /* Pods_AwesomeProjectTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 880EBC9D9DB6D8FC99CA5492 /* Pods_AwesomeProjectTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,13 +55,13 @@
 		1944EB5C591EA6109C4E5CDB /* Pods-AwesomeProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProjectTests.release.xcconfig"; path = "Target Support Files/Pods-AwesomeProjectTests/Pods-AwesomeProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* AwesomeProject-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AwesomeProject-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* AwesomeProject-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AwesomeProject-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E1CF33F66F6BBBE95249D86 /* Pods_AwesomeProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		46D62644DAB678C798EB4B6D /* Pods-AwesomeProject-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProject-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AwesomeProject-tvOSTests/Pods-AwesomeProject-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		519815A6326D030E08AB01DE /* Pods-AwesomeProject-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProject-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AwesomeProject-tvOS/Pods-AwesomeProject-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		6B30BA2FE5A638491C5AE884 /* Pods_AwesomeProject_tvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject_tvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		87654E3264B89F7DFE0920AC /* Pods_AwesomeProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C2525489CB8F127F37D9FE6 /* Pods_AwesomeProject_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		880EBC9D9DB6D8FC99CA5492 /* Pods_AwesomeProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		928C990704BB09AEE6A158B3 /* Pods_AwesomeProject_tvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject_tvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F8FD6A21A3DA96763A300B3 /* Pods-AwesomeProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProject.release.xcconfig"; path = "Target Support Files/Pods-AwesomeProject/Pods-AwesomeProject.release.xcconfig"; sourceTree = "<group>"; };
-		AD122EB2F748FD5C864061E5 /* Pods_AwesomeProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D15A437A69B8300DB69CDDDC /* Pods_AwesomeProject_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AwesomeProject_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D441D0261D70DB24518224EF /* Pods-AwesomeProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProjectTests.debug.xcconfig"; path = "Target Support Files/Pods-AwesomeProjectTests/Pods-AwesomeProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E344D53D428FD8AD3A0111E4 /* Pods-AwesomeProject-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AwesomeProject-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AwesomeProject-tvOSTests/Pods-AwesomeProject-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61CDD0F9976EC26AC11D11EA /* Pods_AwesomeProjectTests.framework in Frameworks */,
+				8E8377C8A00EDF2B36D1830C /* Pods_AwesomeProjectTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91F8743436960148B95D99B2 /* Pods_AwesomeProject.framework in Frameworks */,
+				24A51091E0798DE2C28359C1 /* Pods_AwesomeProject.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A82E2F4B7620713A59A0D183 /* Pods_AwesomeProject_tvOS.framework in Frameworks */,
+				2370906DB644DC57AA289AAD /* Pods_AwesomeProject_tvOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,7 +98,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46FE87735B5684A20E7305F4 /* Pods_AwesomeProject_tvOSTests.framework in Frameworks */,
+				80F28872C03B3F55D501D6C2 /* Pods_AwesomeProject_tvOSTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				87654E3264B89F7DFE0920AC /* Pods_AwesomeProject.framework */,
-				D15A437A69B8300DB69CDDDC /* Pods_AwesomeProject_tvOS.framework */,
-				6B30BA2FE5A638491C5AE884 /* Pods_AwesomeProject_tvOSTests.framework */,
-				AD122EB2F748FD5C864061E5 /* Pods_AwesomeProjectTests.framework */,
+				2E1CF33F66F6BBBE95249D86 /* Pods_AwesomeProject.framework */,
+				6C2525489CB8F127F37D9FE6 /* Pods_AwesomeProject_tvOS.framework */,
+				928C990704BB09AEE6A158B3 /* Pods_AwesomeProject_tvOSTests.framework */,
+				880EBC9D9DB6D8FC99CA5492 /* Pods_AwesomeProjectTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -230,7 +230,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				C6422BD1208C7D1530A4694C /* [CP] Embed Pods Frameworks */,
+				C25CC71C5C24D3E66696F31D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -476,7 +476,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C6422BD1208C7D1530A4694C /* [CP] Embed Pods Frameworks */ = {
+		C25CC71C5C24D3E66696F31D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -486,19 +486,18 @@
 				"${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework",
 				"${BUILT_PRODUCTS_DIR}/Folly/folly.framework",
 				"${BUILT_PRODUCTS_DIR}/React-Core/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-DevSupport/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTActionSheet/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTAnimation/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTBlob/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTImage/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTLinking/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTNetwork/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTSettings/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTText/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTVibration/React.framework",
-				"${BUILT_PRODUCTS_DIR}/React-RCTWebSocket/React.framework",
+				"${BUILT_PRODUCTS_DIR}/React-DevSupport/DevSupport.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTActionSheet/RCTActionSheet.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTAnimation/RCTAnimation.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTBlob/RCTBlob.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTImage/RCTImage.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTLinking/RCTLinking.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTNetwork/RCTNetwork.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTSettings/RCTSettings.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTText/RCTText.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTVibration/RCTVibration.framework",
+				"${BUILT_PRODUCTS_DIR}/React-RCTWebSocket/RCTWebSocket.framework",
 				"${BUILT_PRODUCTS_DIR}/React-cxxreact/cxxreact.framework",
-				"${BUILT_PRODUCTS_DIR}/React-fishhook/fishhook.framework",
 				"${BUILT_PRODUCTS_DIR}/React-jsi/jsi.framework",
 				"${BUILT_PRODUCTS_DIR}/React-jsiexecutor/jsireact.framework",
 				"${BUILT_PRODUCTS_DIR}/React-jsinspector/jsinspector.framework",
@@ -510,8 +509,18 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/folly.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DevSupport.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTActionSheet.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTAnimation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTBlob.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTLinking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTNetwork.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTSettings.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTText.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTVibration.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTWebSocket.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/cxxreact.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/fishhook.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsi.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsireact.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsinspector.framework",
